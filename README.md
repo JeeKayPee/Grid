@@ -2,6 +2,10 @@
 
 please speak to your faculty for usage
 
+connect to ubuntu
+in terminal run sudo apt update && sudo apt install docker.io --yes && sudo apt install docker-compose --yes
+
+
 git clone https://github.com/JeeKayPee/Grid.git
 
 
